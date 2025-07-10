@@ -13,7 +13,7 @@ An end-to-end, local demo of an **agentic AI**–powered personal finance assist
 - **Agentic ReAct loop** for question answering
 - **Demo UI** with Streamlit
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Kafka** (via Docker Compose)
 - **Chroma** vector database
