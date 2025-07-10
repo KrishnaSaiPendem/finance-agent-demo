@@ -27,7 +27,7 @@ An end-to-end, local demo of an **agentic AI**–powered personal finance assist
 
 1. **Clone & install dependencies**  
    ```bash
-   git clone https://github.com/yourusername/finance-agent-demo.git
+   git clone https://github.com/KrishnaSaiPendem/finance-agent-demo.git
    cd finance-agent-demo
    python -m venv .venv
    source .venv/bin/activate
