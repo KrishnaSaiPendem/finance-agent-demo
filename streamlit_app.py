@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("💸 Autonomous Finance Agent")
+st.title("Autonomous Finance Agent")
 
 user = st.text_input("User ID", "u1")
 query = st.text_input("Ask about your spending…", "dining")
